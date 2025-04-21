@@ -1,3 +1,4 @@
+![Smart News Recommender](https://raw.githubusercontent.com/charbelhoukayem/smart-news-recommender/main/app_preview.jpg)
 # Smart News Recommender
 
 A personalized news video recommender system designed for short-form and long-form videos, built as part of the MSBA Capstone Project at the **American University of Beirut (AUB)**.
