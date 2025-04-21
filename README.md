@@ -1,4 +1,4 @@
-![Smart News Recommender](https://raw.githubusercontent.com/charbelhoukayem/smart-news-recommender/main/app_preview.jpg)
+![Smart News Recommender](https://raw.githubusercontent.com/Charbelhk7/smart-news-recommender/main/app_preview.jpg)
 
 # Smart News Recommender
 
