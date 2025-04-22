@@ -48,7 +48,7 @@ The app recommends news videos based on:
 ## 🚀 Live App
 
 Access the live app here:  
-👉 [Smart News Recommender](https://smart-news-recommender-pzbh8mjxwqsuf3yac9xryv.streamlit.app)
+👉 [Smart News Recommender](https://smart-news-recommender.streamlit.app/)
 
 ---
 
